@@ -33,4 +33,4 @@
 
 [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
-
+![Интерфейс](https://github.com/gorobchenkoann/factorization/blob/master/window.png)
