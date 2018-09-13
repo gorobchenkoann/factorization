@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>Awesome Python App!</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <form class="form" action="/" method="post">
+      <p class="text">Какое число вы хотите разложить на простые множители?</p>
+      <input type="number" name="input_number">
+      <input type="submit" value="OK">
+
+      {% if answer %}
+        <p class="text css_typing">{{answer}}</p>
+      {% endif %}
+
+    </form>    
+  </div>
+</body>
+</html>
