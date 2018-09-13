@@ -1,24 +1,36 @@
-Клиент-серверное приложение для разложения чисел на простые множители.
+### Клиент-серверное приложение для разложения чисел на простые множители.
 
-Для установки приложения сделайте следующее.
+Клонируйте репозиторий и перейдите в директорию приложения
+  ```
+  git@github.com:gorobchenkoann/factorization.git
 
-Перейдите в директорию приложения
-# cd awesome_app
+  cd awesome_app
+  ```
 
 Создайте виртуальное окружение, чтобы изолировать приложение и зависимости от системы
-# sudo pip install virtualenv
-# sudo virtualenv venv
+  ```
+  sudo pip install virtualenv
+  
+  sudo virtualenv venv
+  ```
 
 Активируйте виртуальное окружение
-# source venv/bin/activate
+  ```
+  source venv/bin/activate
+  ```
 
 Установите Flask в виртуальное окружение
-# sudo pip install Flask
+  ```
+  sudo pip install Flask
+  ```
 
 Запустите приложение
-# python app.py
+  ```
+  python app.py
+  ```
 
 Приложение доступно в браузере по адресу 
-http://127.0.0.1:5000/ 
+
+[http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 
