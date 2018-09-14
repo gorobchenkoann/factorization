@@ -4,7 +4,7 @@
   ```
   git clone git@github.com:gorobchenkoann/factorization.git
 
-  cd awesome_app
+  cd factorization
   ```
 
 Создайте виртуальное окружение, чтобы изолировать приложение и зависимости от системы
