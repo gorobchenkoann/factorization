@@ -2,7 +2,7 @@
 
 Клонируйте репозиторий и перейдите в директорию приложения
   ```
-  git@github.com:gorobchenkoann/factorization.git
+  git clone git@github.com:gorobchenkoann/factorization.git
 
   cd awesome_app
   ```
